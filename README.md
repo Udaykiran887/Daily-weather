@@ -128,6 +128,6 @@ If you have any questions or issues, feel free to reach out!
 
 - **Project Owner**: uday kiran 
 - **Email**: [GMAIL](udaykirankothagattu@gmail.com)
-- **GitHub**: [GitHub Profile](https://github.com/Udaykiran887)
+- **GitHub**: [udaykiran887](https://github.com/Udaykiran887)
 
 ---
